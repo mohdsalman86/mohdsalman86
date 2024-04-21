@@ -25,7 +25,7 @@
 <br />
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohdsalman86&hide_border=true&stroke=250D0DC4&ring=250D0DC4&fire=250D0DC4&currStreakNum=250D0DC4&sideNums=250D0DC4&currStreakLabel=250D0DC4&sideLabels=250D0DC4&dates=250D0DC4&excludeDaysLabel=250D0DC4" alt="Demmahom" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohdsalman86&border=586E75&stroke=586E75&ring=586E75&fire=586E75&currStreakNum=586E75&sideNums=586E75&currStreakLabel=586E75&sideLabels=586E75&dates=586E75&excludeDaysLabel=586E75&hide_longest_streak=true" alt="demmahom" /></a>
 
  </div>
 <br />
