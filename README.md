@@ -22,7 +22,7 @@
  
 <p>
  <img align="center" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-    ✌️ &emsp; Cloud Consultant | AWS | Data Nerd |  Digital Innovation | Web3.0 Advocate | Strategic Mindset |  IoT and Embedded Systems Experimenter | Digital Transformation Lead | Researcher  <br/><br/>
+   <p align="center"> ✌️ &emsp; Cloud Consultant | AWS | Data Nerd |  Digital Innovation | Web3.0 Advocate | Strategic Mindset |  IoT and Embedded Systems Experimenter | Digital Transformation Lead | Researcher </p></p>  <br/><br/>
 
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsalman86" alt="mohdsalman86" /></a> </p>
