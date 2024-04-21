@@ -29,10 +29,9 @@
 
  </div>
 <br />
-<div align="center">
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdsalman86&theme=default" alt="Demmahom" /></a>
-
- </div>
+ 
+<div align="center" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdsalman86&theme=default" alt="Demmahom" /></div>
+ 
  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsalman86" alt="mohdsalman86" /></a> </p>
