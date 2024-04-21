@@ -33,7 +33,7 @@
  <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdsalman86&amp;theme=default" alt=""></p>
 
  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsalman86&theme=oldie&title=Experience,Stars,Followers,MultiLanguage,Repositories,Commits,Issues" alt="mohdsalman86" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsalman86&theme=oldie&title=Experience,Stars,Followers,MultiLanguage,Repositories,Commits,Issues" alt="mohdsalman86" /></a> </p>
 
 
  
