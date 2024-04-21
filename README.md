@@ -21,7 +21,7 @@
 <!-- About Section -->
  
 <p align="center">
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="center" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     ✌️ &emsp; Cloud Consultant | AWS | Data Nerd |  Digital Innovation | Web3.0 Advocate | Strategic Mindset |  IoT and Embedded Systems Experimenter | Digital Transformation Lead | Researcher  <br/><br/>
 
 </p>
