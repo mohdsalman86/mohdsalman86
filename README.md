@@ -25,11 +25,15 @@
 <br />
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohdsalman86&hide_border=true&stroke=250D0DC4&ring=250D0DC4&fire=250D0DC4&currStreakNum=250D0DC4&sideNums=250D0DC4&currStreakLabel=250D0DC4&sideLabels=250D0DC4&dates=250D0DC4&excludeDaysLabel=250D0DC4" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohdsalman86&hide_border=true&stroke=250D0DC4&ring=250D0DC4&fire=250D0DC4&currStreakNum=250D0DC4&sideNums=250D0DC4&currStreakLabel=250D0DC4&sideLabels=250D0DC4&dates=250D0DC4&excludeDaysLabel=250D0DC4" alt="Demmahom" /></a>
 
  </div>
 <br />
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdsalman86&theme=default)
+<div align="center">
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdsalman86&theme=default" alt="Demmahom" /></a>
+
+ </div>
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsalman86" alt="mohdsalman86" /></a> </p>
  
