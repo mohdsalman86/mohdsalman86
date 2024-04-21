@@ -29,6 +29,7 @@
 
  </div>
 <br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdsalman86&theme=default)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsalman86" alt="mohdsalman86" /></a> </p>
  
