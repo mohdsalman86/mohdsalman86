@@ -35,7 +35,7 @@
   
  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsalman86" alt="mohdsalman86" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=mohdsalman86" alt="mohdsalman86](https://github-profile-trophy.vercel.app/?username=mohdsalman86&theme=oldie&title=Experience,Stars,Followers,MultiLanguage,Repositories,Commits,Issues)" /></a> </p>
  
 
 <h3 align="left">Languages and Tools:</h3>
