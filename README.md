@@ -17,8 +17,8 @@
   
 </p>
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohdsalman86&hide_border=true&stroke=250D0DC4&ring=250D0DC4&fire=250D0DC4&currStreakNum=250D0DC4&sideNums=250D0DC4&currStreakLabel=250D0DC4&sideLabels=250D0DC4&dates=250D0DC4&excludeDaysLabel=250D0DC4)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohdsalman86&hide_border=true&stroke=250D0DC4&ring=250D0DC4&fire=250D0DC4&currStreakNum=250D0DC4&sideNums=250D0DC4&currStreakLabel=250D0DC4&sideLabels=250D0DC4&dates=250D0DC4&excludeDaysLabel=250D0DC4" alt="GitHub Streak" /></a>
 <br />
 <!-- About Section -->
  
